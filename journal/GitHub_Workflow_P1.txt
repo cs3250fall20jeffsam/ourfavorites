@@ -1,0 +1,14 @@
+GitHub Workflow Activity Journal Part 1 & 2
+
+Part 1
+* Jeff Murphy, Sam Han
+* MetalEng, theasiantechnist
+* cs3250fall20jeffsam
+* https://github.com/cs3250fal20jeffsam/
+
+Part 2:
+* https://github.com/cs3250fall20jeffsam/ourfavorites
+* GPL-3.0 License
+* [Needs Answer]
+
+
