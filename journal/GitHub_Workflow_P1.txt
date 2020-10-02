@@ -9,6 +9,6 @@ Part 1
 Part 2:
 * https://github.com/cs3250fall20jeffsam/ourfavorites
 * GPL-3.0 License
-* [Needs Answer]
+* It allows anyone to modify the software with limited restrictions.
 
 
