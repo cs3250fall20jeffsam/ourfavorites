@@ -3,3 +3,6 @@ Here is some test text
 This is another update to this file. 
 
 Edit: This will be the next commit
+
+Why are the files not syncing to my repo?
+
