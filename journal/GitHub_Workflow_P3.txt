@@ -1,6 +1,5 @@
 GitHub Workflow Activity Part 3: Parts 8-9
 
-1. This change is to create a new commit. 
-   
+1. 
    
 2. 
