@@ -1,0 +1,6 @@
+GitHub Workflow Activity Part 3: Parts 8-9
+
+1. This change is to create a new commit. 
+   Creating new commits after changes allow me to see the progress.
+   This is the last commit I am willing to make for this. 
+2. 
