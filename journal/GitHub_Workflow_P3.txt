@@ -1,6 +1,16 @@
 GitHub Workflow Activity Part 3: Parts 8-9
 
-1. This change is to create a new commit. 
-   Creating new commits after changes allow me to see the progress.
-   This is the last commit I am willing to make for this. 
-2. 
+
+1. Squashing commits was difficult. I was not able to get the squash
+   to work correctly in the command line. For whatever reason the commits 
+   would not show up in the 'todo'. I pushed the commits to the GitHub
+   site and sqaushed them from there. (Jeff)
+   
+2. Resolving conflicts seems easy enough. How they relate to squashing
+   commits is unknown, since the system was not working as described in 
+   activity. (Jeff)
+
+3. There seemed to be very little difference. Unless there was a conflict
+   GitHub was indifferent to squashed vs unsquashed.(Jeff)
+
+
