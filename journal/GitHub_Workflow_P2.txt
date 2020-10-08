@@ -10,4 +10,8 @@ Part 5
 It took about 20 minutes to complete. 
 
 Part 6
+Making sure that being in the correct branch and then running either "git fetch upstream main:main" or "git pull upstream main" was something to take note of. 
 
+Part 7
+Trying to fix the error and learning how to merge both changes simultaneously both from GitHub and from the command line was incredibly valuable. 
+Updating branches often is important to prevent errors in merging files. 
