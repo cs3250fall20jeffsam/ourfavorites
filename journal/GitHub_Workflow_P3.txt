@@ -1,6 +1,7 @@
 GitHub Workflow Activity Part 3: Parts 8-9
 
-1. Squashing commits was a pain. I was not able to get the squash
+
+1. Squashing commits was difficult. I was not able to get the squash
    to work correctly in the command line. For whatever reason the commits 
    would not show up in the 'todo'. I pushed the commits to the GitHub
    site and sqaushed them from there. (Jeff)
@@ -11,3 +12,5 @@ GitHub Workflow Activity Part 3: Parts 8-9
 
 3. There seemed to be very little difference. Unless there was a conflict
    GitHub was indifferent to squashed vs unsquashed.(Jeff)
+
+
